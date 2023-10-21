@@ -1,18 +1,22 @@
-## Getting Started
+## iPhone
+Ligar;
+Desligar.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## AparelhoTelefonico
+Ligação em andamento;
+Chamada atendida;
+Correio de voz ativado;
+Ligação em andamento.
 
-## Folder Structure
+## NavegadorInternet
+Nova aba criada com a página: https://www.exemplo.com;
+Exibindo a página: https://www.exemplo.com;
+Atualizando a página: https://www.exemplo.com;
+Nova aba criada com a página: https://www.google.com;
+Exibindo a página: https://www.google.com.
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## ReprodutorMusical
+Tocando: Música 1;
+Pausando a música: Música 1;
+Música selecionada: Música 2;
+Tocando: Música 2.
